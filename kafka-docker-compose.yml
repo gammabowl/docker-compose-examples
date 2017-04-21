@@ -57,8 +57,8 @@ services:
       CONNECT_INTERNAL_KEY_CONVERTER: org.apache.kafka.connect.json.JsonConverter
       CONNECT_INTERNAL_VALUE_CONVERTER: org.apache.kafka.connect.json.JsonConverter
       CONNECT_ZOOKEEPER_CONNECT: 'zookeeper:2181'
-      AWS_ACCESS_KEY_ID: AKIAILQ5TV5BFJNLQDNQ
-      AWS_SECRET_ACCESS_KEY: 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
+      AWS_ACCESS_KEY_ID: 
+      AWS_SECRET_ACCESS_KEY: 
 
   kafka-ui:
     image: landoop/kafka-topics-ui
