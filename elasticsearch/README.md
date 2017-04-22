@@ -2,7 +2,7 @@
 * Configure parameters in elasticsearch.yml, kibana can be custom configured similarly.
 * `docker-compose up` to spin elasticsearch and kibana docker containers.
 
-## default authentication:
+## Docker image default authentication values
 * elasticsearch.username: elastic
 * elasticsearch.password: changeme
 
