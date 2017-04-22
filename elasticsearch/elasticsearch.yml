@@ -1,0 +1,6 @@
+indices.query.bool.max_clause_count: 5000
+network.host: 0.0.0.0
+script.engine.groovy.inline.update: true
+script.engine.groovy.inline.aggs: true
+action.auto_create_index: false
+transport.host: localhost
