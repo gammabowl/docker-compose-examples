@@ -7,6 +7,3 @@ Install [docker](https://www.docker.com/get-docker)
 ## How to run
 - cd into specific directory, example: `cd kafka`
 - `docker-compose up` 
-
-## TODO:
-- Add setup instructions for multiple docker-compose files.
